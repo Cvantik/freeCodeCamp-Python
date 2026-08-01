@@ -6,6 +6,7 @@ The core logic, functional implementations, and final code solutions were writte
 
 | File                  | Description                               |
 | --------------------- | ----------------------------------------- |
+| `build-a-media-catalogue.py`         | Object-oriented structure validating input parameters via .strip() with an incremental catalogue system filtering custom Movie and TVSeries objects using specific type checks.                  |
 | `build-a-user-configuration-manager.py`             | Explicit user stories outlining required CRUD parameters like add_setting(settings, values), update_setting(), delete_setting(), and view_settings().       |
 | `build-an-rpg-character.py`       | Setup for string-based stat bars (● and ○) and an empty create_character(name, strength, intelligence, charisma) function template.                    |
 | `email_simulator.py`         | Boilerplate object-oriented structure including basic structural classes for an Email, User, and Inbox system.                  |
