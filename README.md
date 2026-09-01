@@ -6,6 +6,7 @@ The core logic, functional implementations, and final code solutions were writte
 
 | File                  | Description                               |
 | --------------------- | ----------------------------------------- |
+| `build-a-discount-calculator.py`        | An object-oriented spatial modeling framework leveraging class inheritance to compute dimensions, evaluate shape containment, and render geometric layouts.         |
 | `build_a_budget_app.py`        | An object-oriented data processing system managing concurrent ledger state tracking and multi-tier transaction filtering, utilizing custom string formatting algorithms to render precise vertical grid-based analytical data visualizations.         |
 | `build-a-discount-calculator.py`        | Procedural control flow validating numerical inputs via float() with a conditional logic system calculating final receipts using multi-tier percentage discounts.         | 
 | `build-a-media-catalogue.py`         | Object-oriented structure validating input parameters via .strip() with an incremental catalogue system filtering custom Movie and TVSeries objects using specific type checks.                  |
