@@ -6,6 +6,7 @@ The core logic, functional implementations, and final code solutions were writte
 
 | File                  | Description                               |
 | --------------------- | ----------------------------------------- |
+| `build-a-linked-list.py`        | A foundational linear data structure framework leveraging nested object encapsulation to dynamically manage sequential node references, execute elemental searches, and track state allocation.         |
 | `build-a-discount-calculator.py`        | An object-oriented spatial modeling framework leveraging class inheritance to compute dimensions, evaluate shape containment, and render geometric layouts.         |
 | `build_a_budget_app.py`        | An object-oriented data processing system managing concurrent ledger state tracking and multi-tier transaction filtering, utilizing custom string formatting algorithms to render precise vertical grid-based analytical data visualizations.         |
 | `build-a-discount-calculator.py`        | Procedural control flow validating numerical inputs via float() with a conditional logic system calculating final receipts using multi-tier percentage discounts.         | 
