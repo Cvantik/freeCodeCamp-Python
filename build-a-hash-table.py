@@ -28,21 +28,3 @@ class HashTable:
         except KeyError:
             return None
         
-
-
-
-print(HashTable().hash('golf'))
-HashTable().add('dear', 'friend')
-HashTable().add('read', 'book')
-print(HashTable().lookup('golf'))
-print(HashTable().lookup('dear'))
-
-my_table = HashTable()
-
-my_table.add('dear', 'friend')
-my_table.add('read', 'book')
-
-print(my_table.lookup('dear'))
-print(my_table.lookup('read'))
-my_table.remove('read')
-print(my_table.lookup('read'))

@@ -6,6 +6,7 @@ The core logic, functional implementations, and final code solutions were writte
 
 | File                  | Description                               |
 | --------------------- | ----------------------------------------- |
+| `implement-the-bisection-method.py`        | A deterministic root-finding algorithm executing binary-interval division over dynamic floating-point boundaries to iteratively isolate real-valued square targets within a customized precision tolerance framework.         |
 | `build-a-hash-table.py`        | An associative non-linear data structure architecture utilizing custom hashing algorithms and nested map isolation to dynamically mitigate collisions, execute constant-time key lookups, and ensure error-free record state suppression.         |
 | `build-a-linked-list.py`        | A foundational linear data structure framework leveraging nested object encapsulation to dynamically manage sequential node references, execute elemental searches, and track state allocation.         |
 | `build-a-discount-calculator.py`        | An object-oriented spatial modeling framework leveraging class inheritance to compute dimensions, evaluate shape containment, and render geometric layouts.         |

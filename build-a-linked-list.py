@@ -35,14 +35,3 @@ class LinkedList:
         else:
             self.head = current_node.next
         self.length -= 1
-
-my_list = LinkedList()
-print(my_list.is_empty())
-
-my_list.add(1)
-my_list.add(2)
-print(my_list.is_empty())
-print(my_list.length)
-
-my_list.remove(1)
-print(my_list.length)
