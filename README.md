@@ -1,6 +1,7 @@
 # freeCodeCamp-Python
 
-<img width="132" height="108" alt="IDK-ezgif com-gif-to-webp-converter" src="https://github.com/user-attachments/assets/c29819fd-ab12-4ae6-910d-e6340bc206c2" />
+<img width="100" height="81" alt="IDK-ezgif com-effects" src="https://github.com/user-attachments/assets/55d3557a-595a-4b89-9658-514847373e89" />
+
 
 The foundational architecture, project user stories, and initial boilerplate code for the scripts in this repository were provided by [freeCodeCamp](https://freecodecamp.org) as part of their Python Developer Curriculum. 
 
