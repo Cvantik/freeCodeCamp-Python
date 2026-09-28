@@ -1,6 +1,6 @@
 # freeCodeCamp-Python
 
-<img src="https://github.com/user-attachments/assets/55d3557a-595a-4b89-9658-514847373e89" width="100" alt="Python Logo" />
+<img src="https://github.com/user-attachments/assets/55d3557a-595a-4b89-9658-514847373e89" width="100" hspace="120" alt="Python Logo" />
 
 The foundational architecture, project user stories, and initial boilerplate code for the scripts in this repository were provided by [freeCodeCamp](https://freecodecamp.org) as part of their Python Developer Curriculum. 
 
