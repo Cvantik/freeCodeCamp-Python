@@ -1,10 +1,13 @@
 # freeCodeCamp-Python
 
+<img src="https://github.com/user-attachments/assets/55d3557a-595a-4b89-9658-514847373e89" width="100" hspace="120" alt="Python Logo" />
+
 The foundational architecture, project user stories, and initial boilerplate code for the scripts in this repository were provided by [freeCodeCamp](https://freecodecamp.org) as part of their Python Developer Curriculum. 
 
 The core logic, functional implementations, and final code solutions were written entirely by me.
 | File Name | Description |
 | :--- | :--- |
+| <code>implement-selection-sort-algorithm.py</code> | <details><summary><b>Expand</b></summary><br>**Description:**<br>Is an iterative function that uses index tracking to sort data. It locates the minimum element in the unsorted section using nested loops. Finally, it uses tuple assignment to swap it into place.</details> |
 | <code>implement-the-quicksort-algorithm.py</code> | <details><summary><b>Expand</b></summary><br>**Description:**<br>Is a recursive function that uses pivot-driven partitioning to sort data. It filters elements into smaller sub-lists using fast list comprehensions. Finally, it uses array concatenation to join the segments back together in perfect order.</details> |
 | <code>implement-the-merge-sort-algorithm.py</code> | <details><summary><b>Expand</b></summary><br>**Description:**<br>Is a recursive algorithm that splits data into halves to sort it. It uses localized index pointers to track positions directly inside the array. Finally, it mutates the data in-place to efficiently merge the segments together without using extra memory.</details> |
 | <code>implement-the-bisection-method.py</code> | <details><summary><b>Expand</b></summary><br>**Description:**<br>Is a root-finding algorithm that splits numeric intervals in half to calculate square roots. It continuously narrows down the boundaries until it isolates the target value. Finally, it stops once it achieves your custom precision accuracy.</details> |
